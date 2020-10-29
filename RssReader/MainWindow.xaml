@@ -4,9 +4,26 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RssReader"
+        xmlns:viewModel="clr-namespace:RssReader.ViewModels"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Window.Resources>
+        <viewModel:MainVM x:Key="VM"/>
+    </Window.Resources>
+   
+    <Grid DataContext="{StaticResource VM}">
+        <ListView 
+            ItemsSource="{Binding CdItems}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Text="{Binding Title}"/>
+                        <TextBlock Text="{Binding Artist}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            
+        </ListView>
         
     </Grid>
 </Window>
