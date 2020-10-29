@@ -10,9 +10,9 @@ using System.Xml.Serialization;
 
 namespace RssReader.ViewModels
 {
-    public class Helper
+    public class Helper :IHelper
     {
-        public static List<CD> GetCDs()
+        public  List<CD> GetCDs()
         {
             List<CD> listCDs = new List<CD>();
 

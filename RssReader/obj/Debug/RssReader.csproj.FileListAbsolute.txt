@@ -5,7 +5,6 @@ C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\bin\Debug\RssRe
 C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\bin\Debug\RssReader.exe
 C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\bin\Debug\RssReader.pdb
 C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\obj\Debug\MainWindow.g.cs
-C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\obj\Debug\RssReader_MarkupCompile.lref
 C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\obj\Debug\MainWindow.baml
 C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\obj\Debug\RssReader.g.resources
@@ -14,3 +13,11 @@ C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\obj\Debug\RssRe
 C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\obj\Debug\RssReader.csproj.CoreCompileInputs.cache
 C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\obj\Debug\RssReader.exe
 C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\obj\Debug\RssReader.pdb
+C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\bin\Debug\Unity.Abstractions.dll
+C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\bin\Debug\Unity.Container.dll
+C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\bin\Debug\Unity.Abstractions.pdb
+C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\bin\Debug\Unity.Container.pdb
+C:\Users\bhavi\Desktop\Bhavin\WPF\Udemy\MVVM\RssReader\RssReader\obj\Debug\RssReader.csproj.CopyComplete

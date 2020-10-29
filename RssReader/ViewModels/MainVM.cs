@@ -12,8 +12,11 @@ namespace RssReader.ViewModels
     {
         public ObservableCollection<CD> CdItems { get; set; }
 
-        public MainVM()
+        IHelper _iHelper;
+
+        public MainVM(IHelper iHelper)
         {
+            this._iHelper = iHelper;
             CdItems = new ObservableCollection<CD>();
 
             ReadItems();
@@ -23,7 +26,11 @@ namespace RssReader.ViewModels
         {
             List<CD> cds = new List<CD>();
 
-            cds = Helper.GetCDs();
+            // without Dependancy Container
+            //IHelper helper = new FakeHelper();
+            //cds = helper.GetCDs();
+
+            cds = _iHelper.GetCDs();
             CdItems.Clear();
             foreach(var cd in cds)
             {
